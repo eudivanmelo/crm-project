@@ -28,4 +28,4 @@
 5. PROJETO
     - Criar um Projeto de Banco de Dados, desde um nível de abstração mais elevado, como Modelo ER (através do diagrama ER), passando para o modelo relacional (tabelas simples, tabelas com relacionamentos, etc.) até o projeto no Banco de Dados (pode usar MySQL e/ou PostgreSQL e/ou SQLite e/ou outro que você achar válido, o interessante é praticar, inclusive em mais de um). Nesse projeto, deverá ser possível consultar, inserir, deletar e atualizar informações em um Banco de Dados, respeitando o relacionamento entre os dados e as devidas restrições.
 
-![Diagrama ER](database/modelo-er.png)
+![Diagrama ER](modelo-er.png)
