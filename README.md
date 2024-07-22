@@ -31,7 +31,7 @@ Este projeto faz parte da trilha Back-end do Nadic. Mais informações podem ser
 5. Funções
 6. Classes e Orientação a objetos
 
-## **Parte 3: Banco de Dados**
+## **Parte 3: [Banco de Dados](https://github.com/eudivanmelo/crm-project/tree/main/database)**
 
 ### Conteúdo
 1. Estudo sobre tipos de Bancos de Dados (relacionais, não relacionais, etc.)
