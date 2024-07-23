@@ -35,8 +35,8 @@
                             <td>
                                 <div class="btn-group btn-group-sm" role="group">
                                     <button type="button" class="btn btn-secondary">View</button>
-                                    <button type="button" class="btn btn-danger">Delete</button>
-                                    <button type="button" class="btn btn-success">Edit</button>
+                                    <a href="{% url "category-delete" category.id %}" type="button" class="btn btn-danger">Delete</a>
+                                    <a href="{% url "category-update" category.id %}" type="button" class="btn btn-success">Edit</a>
                                 </div>
                             </td>
                         </tr>
